@@ -3,9 +3,13 @@
 
 
 **Contact With Me**
+<div id="badges">
+  <a href="linkedin.com/in/katren-mikhael-540350218">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Badge" style="width:60px;height:50px"/>
+  </a>
+   <a href="linkedin.com/in/katren-mikhael-540350218">
+    <img  src="https://github.com/sempostma/office365-icons/raw/master/png/256/outlook.png" alt="Outlook Badge" style="width:60px;height:40px;margine-left=40px"/>
+  </a>
+</div>  
 
 
-
-![linked in](https://www.linkedin.com/in/katren-mikhael-540350218?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQ1paAhA%2FQ4a4yulZgNJq0Q%3D%3D)
-
-![email](katren.mikhael@outlook.com)
