@@ -8,8 +8,10 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Badge" style="width:60px;height:50px"/>
   </a>
    <a href="linkedin.com/in/katren-mikhael-540350218">
-    <img  src="https://github.com/sempostma/office365-icons/raw/master/png/256/outlook.png" alt="Outlook Badge" style="width:60px;height:40px;margine-left=40px"/>
+    <img  src="https://github.com/sempostma/office365-icons/raw/master/png/256/outlook.png" alt="Outlook Badge" style="width:60px;height:40px;margine-left:40px"/>
   </a>
 </div>  
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
