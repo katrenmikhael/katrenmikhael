@@ -4,7 +4,7 @@
 
 **Contact With Me**
 <div id="badges">
-  <a href="linkedin.com/in/katren-mikhael-540350218">
+  <a href="https://linkedin.com/in/katren-mikhael-540350218">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Badge" style="width:60px;height:50px"/>
   </a>
    <a href="mailto:katren.mikhael@outlook.com">
